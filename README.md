@@ -1,10 +1,10 @@
 # 🛒 Walmart Sales Analysis
 
-This project analyzes a synthetic dataset of Walmart sales to uncover key business insights, including high-performing product categories, branch performance, peak transaction times, and customer preferences.
+This project analyzes a synthetic dataset of Walmart sales to uncover key business insights, including high-performing product categories, branch performance, peak transaction times, and customer preferences. The dataset is provided as a part of the repository or can be obtained from the kaggle link shown below.
 
 ## 📁 Dataset
 
-**Source:** [Kaggle - Walmart 10K Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
+**Source:** [Kaggle - Walmart 10K Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets) 
 
 The dataset includes the following columns:
 - `Invoice ID`
